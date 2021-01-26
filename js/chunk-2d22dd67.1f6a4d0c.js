@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22dd67"],{f8cb:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},s=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"konten"},[n("h4",{staticClass:"text-center bg-danger text-white mt-5 p-5 text-uppercase"},[t._v("Halaman Trio Motor masih dalam proses pembuatan")])])}],r=n("2877"),c={},l=Object(r["a"])(c,a,s,!1,null,null,null);e["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d22dd67.1f6a4d0c.js.map
